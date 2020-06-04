@@ -1,0 +1,114 @@
+{
+    "einrichtungsauszug": {
+        "id": 567229,
+        "name": "Kita Mausezahn",
+        "nummer": "11171480",
+        "geokoordinate": {
+            "lon": 13.502568192635552,
+            "lat": 52.50983246091975,
+            "entfernung": null
+        },
+        "vorschaubild": {
+            "url": "/fallback_einrichtung_vorschau.jpg"
+        },
+        "adresse": {
+            "strasse": "Einbecker Str.",
+            "hausnummer": "32A",
+            "plz": "10317",
+            "ort": "Berlin"
+        },
+        "freiplatzstatus": [
+            {
+                "gueltigAb": "2020-05-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-06-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-07-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-08-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-09-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-10-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-11-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2020-12-01",
+                "plaetzeVerfuegbar": true
+            },
+            {
+                "gueltigAb": "2021-01-01",
+                "plaetzeVerfuegbar": true
+            }
+        ]
+    },
+    "kontaktdaten": {
+        "emailadresse": "leitung@kita-mausezahn.de",
+        "telefonnummer": "+49-30-81030903",
+        "webadresse": null
+    },
+    "betreuung": {
+        "aufnahmealter": 12,
+        "anzahlKinder": 35,
+        "anzahlKinderUnter3": 12,
+        "paedagogischerAnsatz": [
+            "Situationsansatz"
+        ],
+        "thematischeSchwerpunkte": [
+            "Integration von Kindern mit Behinderung",
+            "Körper und Bewegung",
+            "Interkulturelle Pädagogik",
+            "Gesundheit"
+        ],
+        "mehrsprachigkeit": [],
+        "altersmischung": [
+            "Nestgruppe"
+        ]
+    },
+    "bild": {
+        "url": "/fallback_einrichtung.jpg"
+    },
+    "oeffnungszeiten": [
+        {
+            "tag": "MONTAG",
+            "von": "07:00",
+            "bis": "17:00"
+        },
+        {
+            "tag": "DIENSTAG",
+            "von": "07:00",
+            "bis": "17:00"
+        },
+        {
+            "tag": "MITTWOCH",
+            "von": "07:00",
+            "bis": "17:00"
+        },
+        {
+            "tag": "DONNERSTAG",
+            "von": "07:00",
+            "bis": "17:00"
+        },
+        {
+            "tag": "FREITAG",
+            "von": "07:00",
+            "bis": "17:00"
+        }
+    ],
+    "oeffnungsdatum": "2014-03-01T00:00:00",
+    "schliessdatum": null
+}
