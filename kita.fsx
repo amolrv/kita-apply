@@ -13,7 +13,7 @@ type Kita = {
         Note: string
     }
 
-type KitaSearchInfo = JsonProvider<const(__SOURCE_DIRECTORY__ + "/result.json")>
+type KitaSearchInfo = JsonProvider<const(__SOURCE_DIRECTORY__ + "/search.json")>
 type KitaInfo = JsonProvider<const(__SOURCE_DIRECTORY__ + "/kita.json")>
 let private site = "https://kita-navigator.berlin.de"
 let private baseUrl = sprintf "%s/api/v1/kitas" site

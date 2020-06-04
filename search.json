@@ -1,0 +1,34 @@
+{
+    "metainformation": {
+        "anzahlSeiten": 1,
+        "seite": 0,
+        "anzahlErgebnisse": 72
+    },
+    "einrichtungen": [
+        {
+            "id": 128179,
+            "name": "CityKids Berlin",
+            "nummer": "11170780",
+            "geokoordinate": {
+                "lon": 13.494983026821409,
+                "lat": 52.50709107671521,
+                "entfernung": 0.03
+            },
+            "vorschaubild": {
+                "url": "/fallback_einrichtung_vorschau.jpg"
+            },
+            "adresse": {
+                "strasse": "Eitelstr.",
+                "hausnummer": "16",
+                "plz": "10317",
+                "ort": "Berlin"
+            },
+            "freiplatzstatus": [
+                {
+                    "gueltigAb": "2020-05-01",
+                    "plaetzeVerfuegbar": false
+                }
+            ]
+        }
+    ]
+}
